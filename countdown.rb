@@ -2,4 +2,5 @@
 
 def countdowN(number)
   while number > 0
+  puts ""
 end
