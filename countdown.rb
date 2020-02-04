@@ -1,5 +1,5 @@
 #write your code here
 
 def countdowN(number)
-  while 
+  while number 
 end
