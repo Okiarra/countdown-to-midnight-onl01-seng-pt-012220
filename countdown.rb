@@ -1,5 +1,5 @@
 #write your code here
 
-def countdown=5
-  while countdown 
+def countdowN(number)
+  while 
 end
